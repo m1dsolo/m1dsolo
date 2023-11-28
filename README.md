@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-I am a second year of software engineering graduate student at **DLUT**:school:, the main research direction is computer vision in the medical field:pill:. I'm looking for jobs or internships related to algorithm engineering:briefcase:.
+I'm a second year of software engineering graduate student at **DLUT**:school:.
+
+The main research direction is computer vision in the medical field:pill:.
+
+I'm looking for jobs or internships related to algorithm engineering:briefcase:.
 
 
 #### :hammer_and_wrench: **Skills**
