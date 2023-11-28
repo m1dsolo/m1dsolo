@@ -21,7 +21,7 @@ I'm looking for jobs or internships related to algorithm engineering:briefcase:.
 [![codeforces](https://img.shields.io/badge/-codeforces-black?style=flat-square&logo=codeforces)](https://codeforces.com/profile/m1dsolo)
 
 
-#### :heart: **Love**
+#### :heart: **Hobbies**
 ![archlinux](https://img.shields.io/badge/-archlinux-black?style=flat-square&logo=archlinux)
 ![neovim](https://img.shields.io/badge/-neovim-black?style=flat-square&logo=neovim)
 ![terminal](https://img.shields.io/badge/-terminal-black?style=flat-square&logo=gnometerminal)
@@ -30,12 +30,12 @@ I'm looking for jobs or internships related to algorithm engineering:briefcase:.
 ![bilibili](https://img.shields.io/badge/-bilibili-black?style=flat-square&logo=bilibili)
 
 
-#### :phone: **Concat**
+#### :phone: **Concats**
 [![gmail](https://img.shields.io/badge/yx1053532442@gmail.com-gmail-black?style=flat-square&logo=gmail)](gmail.com)
 
 
 #### :bar_chart: **Statistics**
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=m1dsolo&theme=panda&show_icons=true&count_private=true&include_all_commits=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m1dsolo)](https://github.com/m1dsolo/github-readme-stats&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m1dsolo&layout=compact)
 
