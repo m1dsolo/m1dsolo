@@ -25,7 +25,6 @@ I'm looking for jobs or internships related to algorithm engineering:briefcase:.
 ![archlinux](https://img.shields.io/badge/-archlinux-black?style=flat-square&logo=archlinux)
 ![neovim](https://img.shields.io/badge/-neovim-black?style=flat-square&logo=neovim)
 ![terminal](https://img.shields.io/badge/-terminal-black?style=flat-square&logo=gnometerminal)
-![dwm](https://img.shields.io/badge/-dwm-black?style=flat-square&logo=dwm)
 ![steam](https://img.shields.io/badge/-steam-black?style=flat-square&logo=steam)
 ![bilibili](https://img.shields.io/badge/-bilibili-black?style=flat-square&logo=bilibili)
 
