@@ -36,6 +36,6 @@ I'm looking for jobs or internships related to algorithm engineering:briefcase:.
 
 #### :bar_chart: **Statistics**
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=m1dsolo&theme=panda&show_icons=true&count_private=true&include_all_commits=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=m1dsolo&theme=panda&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m1dsolo&layout=compact)
 
