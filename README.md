@@ -11,7 +11,6 @@ I'm looking for jobs or internships related to algorithm engineering:briefcase:.
 ![python](https://img.shields.io/badge/-python-black?style=flat-square&logo=python)
 ![cplusplus](https://img.shields.io/badge/-cpp-black?style=flat-square&logo=cplusplus)
 ![pytorch](https://img.shields.io/badge/-pytorch-black?style=flat-square&logo=pytorch)
-![vim](https://img.shields.io/badge/-vim-black?style=flat-square&logo=vim)
 ![linux](https://img.shields.io/badge/-linux-black?style=flat-square&logo=linux)
 
 
@@ -35,6 +34,6 @@ I'm looking for jobs or internships related to algorithm engineering:briefcase:.
 
 #### :bar_chart: **Statistics**
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=m1dsolo&theme=panda&show_icons=true&include_all_commits=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=m1dsolo&theme=panda&show_icons=true&include_all_commits=true&custom_title=m1dsolo's%20GitHub%20Stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m1dsolo&layout=compact)
 
