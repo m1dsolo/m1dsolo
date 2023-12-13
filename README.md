@@ -1,17 +1,17 @@
 ### Hi there 👋
 
-I'm a second year of software engineering graduate student at **DLUT**:school:.
+I'm a second year of software engineering graduate student at **DLUT** :school:.
 
-The main research direction is computer vision in the medical field:pill:.
+The main research direction is computer vision in the medical field :pill:.
 
-I'm looking for jobs or internships related to algorithm engineering:briefcase:.
+I'm looking for jobs or internships related to algorithm engineering :briefcase:.
 
 
 #### :hammer_and_wrench: **Skills**
 ![python](https://img.shields.io/badge/-python-black?style=flat-square&logo=python)
 ![cplusplus](https://img.shields.io/badge/-cpp-black?style=flat-square&logo=cplusplus)
-![pytorch](https://img.shields.io/badge/-pytorch-black?style=flat-square&logo=pytorch)
 ![linux](https://img.shields.io/badge/-linux-black?style=flat-square&logo=linux)
+![pytorch](https://img.shields.io/badge/-pytorch-black?style=flat-square&logo=pytorch)
 
 
 #### :globe_with_meridians: **Sites**
