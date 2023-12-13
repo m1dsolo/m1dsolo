@@ -12,6 +12,7 @@ I'm looking for jobs or internships related to algorithm engineering :briefcase:
 ![cplusplus](https://img.shields.io/badge/-cpp-black?style=flat-square&logo=cplusplus)
 ![linux](https://img.shields.io/badge/-linux-black?style=flat-square&logo=linux)
 ![pytorch](https://img.shields.io/badge/-pytorch-black?style=flat-square&logo=pytorch)
+![git](https://img.shields.io/badge/-git-black?style=flat-square&logo=git)
 
 
 #### :globe_with_meridians: **Sites**
