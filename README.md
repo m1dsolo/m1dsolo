@@ -26,6 +26,7 @@ I'm looking for jobs or internships related to algorithm engineering :briefcase:
 ![neovim](https://img.shields.io/badge/-neovim-black?style=flat-square&logo=neovim)
 ![terminal](https://img.shields.io/badge/-terminal-black?style=flat-square&logo=gnometerminal)
 ![steam](https://img.shields.io/badge/-steam-black?style=flat-square&logo=steam)
+![youtube](https://img.shields.io/badge/-youtube-black?style=flat-square&logo=youtube)
 ![bilibili](https://img.shields.io/badge/-bilibili-black?style=flat-square&logo=bilibili)
 
 
