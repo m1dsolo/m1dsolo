@@ -4,8 +4,9 @@ I'm a second year of software engineering graduate student at **DLUT** :school:.
 
 The main research direction is computer vision in the medical field :pill:.
 
-I'm looking for jobs or internships related to algorithm engineering :briefcase:.
+~I'm looking for jobs or internships related to algorithm engineering :briefcase:.(finished)~
 
+Currently I hope to find an algorithm or game development-related job during the autumn recruitment :briefcase:.
 
 #### :hammer_and_wrench: **Skills**
 ![python](https://img.shields.io/badge/-python-black?style=flat-square&logo=python)
